@@ -1,0 +1,48 @@
+extends master
+block variables
+	title = "Roy Braeger - What We Do"
+block posthead
+	link(rel="stylesheet", href="css/styles.css")
+
+block body
+	div.wrapper
+		header
+			img.logo(src="images/logo.png")
+			include nav
+		div#wwd
+			img.bg(src="images/wwd1.jpg")
+			img.bg(src="images/wwd2.jpg")
+			img.bg(src="images/wwd3.jpg")
+			img.bg(src="images/wwd4.jpg")
+			h1 What We Do Is All About You
+			section.main
+				h2.first We <strong>Design</strong>
+				ul
+					li.orange.circle
+						p Parties 
+					li.yellow.tri
+						p Promotions 
+					li.orange.box
+						p Environments 
+					li.yellow.semi
+						p Products
+				
+				h2.second We <strong>Fabricate</strong> One Of A Kind
+				ul.second
+					li.after.yellow.circle
+						p Decor 
+					li.after.orange.tri
+						p Floral Elements 
+					li.after.yellow.box
+						p Branded Materials 
+					li.after.orange.semi
+						p Props
+				footer
+					p You
+					img(src="images/get_happy.png", width="230")
+		footer.wwd
+			div.socialbox
+				a(href="#{twitter}"): button.twitter
+				a(href="#{facebook}"): button.facebook
+block scripts
+	script(src="js/wwd-kreate.js")

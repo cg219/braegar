@@ -1,0 +1,45 @@
+extends master
+block variables
+	title = "Roy Braeger - Contact"
+
+block posthead
+	link(rel="stylesheet", href="css/styles.css")
+
+block body
+	div.wrapper
+		header
+			img.logo(src="images/logo.png")
+			include nav
+		div#contact
+			//- 
+				img.plate(src="images/contact/1.jpg")
+				img.bg(src="images/contact/13.jpg")
+				img.bg(src="images/contact/12.jpg")
+				img.bg(src="images/contact/11.jpg")
+				img.bg(src="images/contact/10.jpg")
+				img.bg(src="images/contact/9.jpg")
+				img.bg(src="images/contact/8.jpg")
+				img.bg(src="images/contact/7.jpg")
+				img.bg(src="images/contact/6.jpg")
+				img.bg(src="images/contact/5.jpg")
+				img.bg(src="images/contact/4.jpg")
+				img.bg(src="images/contact/3.jpg")
+				img.bg(src="images/contact/2.jpg")
+				
+			img.bg(src="images/wwd1.jpg")
+			img.bg(src="images/wwd2.jpg")
+			img.bg(src="images/wwd3.jpg")
+			img.bg(src="images/wwd4.jpg")
+			section.main
+				#info
+					//- p#line1 Roy &nbsp;Braegar Design
+					p#line2: a(href="mailto:info@roybraeger.com") info@roybraeger.com
+					p#line3 T 718 499 2782
+					p#line4 18 Bay Street
+					p#line5 Brooklyn,NY 11231
+		footer.contact
+			div.socialbox
+				a(href="#{twitter}"): button.twitter
+				a(href="#{facebook}"): button.facebook
+block scripts
+	script(src="js/contact-kreate.js")

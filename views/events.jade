@@ -1,0 +1,62 @@
+extends master
+
+mixin event(name, description, classes, imageList)
+	imageString = imageList.join(", ")
+	li(class=classes, data-images=imageString, data-open="false"): p= name
+	li.info
+		p!= description
+
+block variables
+	eventsTitle = ""
+	description = ""
+	favicon = ""
+
+block posthead
+	link(rel="stylesheet", href="css/styles.css")
+
+block body
+	div.wrapper
+		header
+			img.logo(src="images/logo.png")
+			include nav
+		div.events
+			section.eventList
+				h1= eventsTitle
+				ul
+					block list
+						i = 0
+						counter = 1
+						shape = ""
+						each item in events
+							each description, name in item
+								color = i%2 == 0 ? "orange" : "yellow"
+								case counter
+									when 1
+										shape = " circle"
+										- counter++
+									when 2
+										shape = " tri"
+										- counter++
+									when 3
+										shape = " box"
+										- counter++
+									when 4
+										shape = " semi"
+										- counter = 1
+										
+								+event( name, description, color + shape + " title", images[i] )
+								- i++
+			section.eventGallery
+				button.left
+				button.right
+				- defaults = [squares[0], squares[1], squares[2], squares[3]]
+				div.holder(data-images=defaults.join(", "), data-captions=captions)
+					each image in defaults
+						img(src=("images/" + image + ".jpg"))
+		footer
+			img.happy(src="images/get_happy.png")
+			div.socialbox
+				a(href="#{twitter}"): button.twitter
+				a(href="#{facebook}"): button.facebook
+block scripts
+	script(src="js/events-kreate.js")
