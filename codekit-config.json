@@ -1,6 +1,6 @@
 {
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
-  "creatorBuild" : "8283",
+  "creatorBuild" : "8403",
   "files" : {
     "\/images\/corp2-square.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -145,6 +145,17 @@
       "initialSize" : 56474,
       "fileType" : 4096
     },
+    "\/images\/lexus-1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/lexus-1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/lexus-1.jpg",
+      "initialSize" : 145997,
+      "fileType" : 4096
+    },
     "\/images\/wwd1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -164,7 +175,7 @@
       "inputAbbreviatedPath" : "\/images\/intro\/4.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/intro\/4.jpg",
-      "initialSize" : 12560,
+      "initialSize" : 41132,
       "fileType" : 4096
     },
     "\/images\/reebok2.jpg" : {
@@ -186,7 +197,7 @@
       "inputAbbreviatedPath" : "\/images\/mckinsey4.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/mckinsey4.jpg",
-      "initialSize" : 81345,
+      "initialSize" : 53679,
       "fileType" : 4096
     },
     "\/images\/contact\/6.jpg" : {
@@ -255,15 +266,15 @@
       "initialSize" : 76182,
       "fileType" : 4096
     },
-    "\/images\/fencing3.jpg" : {
+    "\/images\/lexus-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/fencing3.jpg",
+      "inputAbbreviatedPath" : "\/images\/lexus-3.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/fencing3.jpg",
-      "initialSize" : 77321,
+      "outputAbbreviatedPath" : "\/images\/lexus-3.jpg",
+      "initialSize" : 64298,
       "fileType" : 4096
     },
     "\/images\/intro\/6.jpg" : {
@@ -274,7 +285,7 @@
       "inputAbbreviatedPath" : "\/images\/intro\/6.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/intro\/6.jpg",
-      "initialSize" : 21932,
+      "initialSize" : 36749,
       "fileType" : 4096
     },
     "\/images\/orensanz2.jpg" : {
@@ -288,6 +299,17 @@
       "initialSize" : 129413,
       "fileType" : 4096
     },
+    "\/images\/fencing3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/fencing3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/fencing3.jpg",
+      "initialSize" : 77321,
+      "fileType" : 4096
+    },
     "\/images\/natasha2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -297,6 +319,28 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/natasha2.jpg",
       "initialSize" : 95143,
+      "fileType" : 4096
+    },
+    "\/images\/wine3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/wine3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/wine3.jpg",
+      "initialSize" : 90272,
+      "fileType" : 4096
+    },
+    "\/images\/bar5.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/bar5.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/bar5.jpg",
+      "initialSize" : 96447,
       "fileType" : 4096
     },
     "\/images\/box2.jpg" : {
@@ -310,15 +354,15 @@
       "initialSize" : 63867,
       "fileType" : 4096
     },
-    "\/images\/reebok4.jpg" : {
+    "\/images\/wine1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/reebok4.jpg",
+      "inputAbbreviatedPath" : "\/images\/wine1.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/reebok4.jpg",
-      "initialSize" : 63031,
+      "outputAbbreviatedPath" : "\/images\/wine1.jpg",
+      "initialSize" : 55623,
       "fileType" : 4096
     },
     "\/images\/natasha5.jpg" : {
@@ -332,6 +376,17 @@
       "initialSize" : 72703,
       "fileType" : 4096
     },
+    "\/images\/frieder2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/frieder2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/frieder2.jpg",
+      "initialSize" : 94970,
+      "fileType" : 4096
+    },
     "\/images\/intro\/JPEG\/14.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -343,15 +398,15 @@
       "initialSize" : 41995,
       "fileType" : 4096
     },
-    "\/images\/frieder2.jpg" : {
+    "\/images\/reebok4.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/frieder2.jpg",
+      "inputAbbreviatedPath" : "\/images\/reebok4.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/frieder2.jpg",
-      "initialSize" : 94970,
+      "outputAbbreviatedPath" : "\/images\/reebok4.jpg",
+      "initialSize" : 63031,
       "fileType" : 4096
     },
     "\/js\/contact.js" : {
@@ -395,7 +450,7 @@
       "inputAbbreviatedPath" : "\/images\/intro\/13.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/intro\/13.jpg",
-      "initialSize" : 20817,
+      "initialSize" : 40141,
       "fileType" : 4096
     },
     "\/contact.html" : {
@@ -404,7 +459,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/contact.html",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 2048
     },
     "\/views\/private-events.jade" : {
@@ -451,15 +506,15 @@
       "initialSize" : 38894,
       "fileType" : 4096
     },
-    "\/images\/mckinsley2.jpg" : {
+    "\/images\/sle3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/mckinsley2.jpg",
+      "inputAbbreviatedPath" : "\/images\/sle3.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/mckinsley2.jpg",
-      "initialSize" : 70578,
+      "outputAbbreviatedPath" : "\/images\/sle3.jpg",
+      "initialSize" : 64806,
       "fileType" : 4096
     },
     "\/images\/get_happy.png" : {
@@ -473,15 +528,15 @@
       "initialSize" : 9028,
       "fileType" : 8192
     },
-    "\/images\/disney2.jpg" : {
+    "\/images\/mckinsley2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/disney2.jpg",
+      "inputAbbreviatedPath" : "\/images\/mckinsley2.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/disney2.jpg",
-      "initialSize" : 88048,
+      "outputAbbreviatedPath" : "\/images\/mckinsley2.jpg",
+      "initialSize" : 70578,
       "fileType" : 4096
     },
     "\/images\/holder4-square.jpg" : {
@@ -506,15 +561,15 @@
       "initialSize" : 95395,
       "fileType" : 4096
     },
-    "\/images\/sle3.jpg" : {
+    "\/images\/disney2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/sle3.jpg",
+      "inputAbbreviatedPath" : "\/images\/disney2.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/sle3.jpg",
-      "initialSize" : 64806,
+      "outputAbbreviatedPath" : "\/images\/disney2.jpg",
+      "initialSize" : 88048,
       "fileType" : 4096
     },
     "\/fonts\/stylesheet.css" : {
@@ -525,6 +580,17 @@
       "inputAbbreviatedPath" : "\/fonts\/stylesheet.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/images\/bar4.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/bar4.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/bar4.jpg",
+      "initialSize" : 105686,
+      "fileType" : 4096
     },
     "\/images\/box1.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -669,26 +735,15 @@
       "initialSize" : 78379,
       "fileType" : 4096
     },
-    "\/images\/mckinsey3.jpg" : {
+    "\/images\/contact\/5.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/mckinsey3.jpg",
+      "inputAbbreviatedPath" : "\/images\/contact\/5.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/mckinsey3.jpg",
-      "initialSize" : 83039,
-      "fileType" : 4096
-    },
-    "\/images\/orchid1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/orchid1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/orchid1.jpg",
-      "initialSize" : 105954,
+      "outputAbbreviatedPath" : "\/images\/contact\/5.jpg",
+      "initialSize" : 129029,
       "fileType" : 4096
     },
     "\/images\/iger2-square.jpg" : {
@@ -702,17 +757,6 @@
       "initialSize" : 113416,
       "fileType" : 4096
     },
-    "\/images\/contact\/5.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/contact\/5.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/contact\/5.jpg",
-      "initialSize" : 129029,
-      "fileType" : 4096
-    },
     "\/images\/iger1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -724,6 +768,28 @@
       "initialSize" : 77479,
       "fileType" : 4096
     },
+    "\/images\/orchid1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/orchid1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/orchid1.jpg",
+      "initialSize" : 105954,
+      "fileType" : 4096
+    },
+    "\/images\/mckinsey3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/mckinsey3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/mckinsey3.jpg",
+      "initialSize" : 54803,
+      "fileType" : 4096
+    },
     "\/images\/tauber3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -733,6 +799,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/tauber3.jpg",
       "initialSize" : 69640,
+      "fileType" : 4096
+    },
+    "\/images\/bar3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/bar3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/bar3.jpg",
+      "initialSize" : 131208,
       "fileType" : 4096
     },
     "\/images\/popsicle1.jpg" : {
@@ -779,17 +856,6 @@
       "initialSize" : 104193,
       "fileType" : 4096
     },
-    "\/images\/photo-4.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/photo-4.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/photo-4.jpg",
-      "initialSize" : 101549,
-      "fileType" : 4096
-    },
     "\/images\/contact\/1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -799,6 +865,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/contact\/1.jpg",
       "initialSize" : 120010,
+      "fileType" : 4096
+    },
+    "\/images\/photo-4.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/photo-4.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/photo-4.jpg",
+      "initialSize" : 101549,
       "fileType" : 4096
     },
     "\/images\/moma3.jpg" : {
@@ -911,15 +988,15 @@
       "initialSize" : 46537,
       "fileType" : 4096
     },
-    "\/images\/lca3.jpg" : {
+    "\/images\/bar2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/lca3.jpg",
+      "inputAbbreviatedPath" : "\/images\/bar2.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/lca3.jpg",
-      "initialSize" : 90097,
+      "outputAbbreviatedPath" : "\/images\/bar2.jpg",
+      "initialSize" : 131208,
       "fileType" : 4096
     },
     "\/what-we-do.html" : {
@@ -928,7 +1005,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/what-we-do.html",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 2048
     },
     "\/images\/intro\/JPEG\/13.jpg" : {
@@ -953,14 +1030,16 @@
       "initialSize" : 60618,
       "fileType" : 4096
     },
-    "\/corporate-events.html" : {
+    "\/images\/lca3.jpg" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/corporate-events.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/images\/lca3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/lca3.jpg",
+      "initialSize" : 90097,
+      "fileType" : 4096
     },
     "\/images\/natasha1.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -972,6 +1051,15 @@
       "outputAbbreviatedPath" : "\/images\/natasha1.jpg",
       "initialSize" : 73105,
       "fileType" : 4096
+    },
+    "\/corporate-events.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/corporate-events.html",
+      "outputAbbreviatedPath" : "\/No Output Path",
+      "fileType" : 2048
     },
     "\/images\/dendur3.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1116,17 +1204,6 @@
       "initialSize" : 39992,
       "fileType" : 4096
     },
-    "\/images\/intro\/JPEG\/2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/intro\/JPEG\/2.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/intro\/JPEG\/2.jpg",
-      "initialSize" : 25181,
-      "fileType" : 4096
-    },
     "\/images\/rockport2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1136,6 +1213,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/rockport2.jpg",
       "initialSize" : 70499,
+      "fileType" : 4096
+    },
+    "\/images\/intro\/JPEG\/2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/intro\/JPEG\/2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/intro\/JPEG\/2.jpg",
+      "initialSize" : 25181,
       "fileType" : 4096
     },
     "\/images\/intro\/15.jpg" : {
@@ -1158,6 +1246,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/lca2.jpg",
       "initialSize" : 72485,
+      "fileType" : 4096
+    },
+    "\/images\/bar1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/bar1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/bar1.jpg",
+      "initialSize" : 109574,
       "fileType" : 4096
     },
     "\/images\/contact\/8.jpg" : {
@@ -1215,6 +1314,17 @@
       "outputAbbreviatedPath" : "\/js\/intro-kreate-kreate.js",
       "fileType" : 64
     },
+    "\/images\/lexus-2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/lexus-2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/lexus-2.jpg",
+      "initialSize" : 70887,
+      "fileType" : 4096
+    },
     "\/images\/intro\/5.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1237,17 +1347,6 @@
       "initialSize" : 127860,
       "fileType" : 4096
     },
-    "\/images\/mckinsey2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/mckinsey2.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/mckinsey2.jpg",
-      "initialSize" : 100331,
-      "fileType" : 4096
-    },
     "\/images\/mckinsey3-square.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1257,6 +1356,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/mckinsey3-square.jpg",
       "initialSize" : 88725,
+      "fileType" : 4096
+    },
+    "\/images\/mckinsey2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/mckinsey2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/mckinsey2.jpg",
+      "initialSize" : 68660,
       "fileType" : 4096
     },
     "\/images\/intro\/JPEG\/4.jpg" : {
@@ -1298,7 +1408,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 2048
     },
     "\/images\/contact\/12.jpg" : {
@@ -1334,6 +1444,17 @@
       "initialSize" : 27600,
       "fileType" : 4096
     },
+    "\/images\/wine2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/wine2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/wine2.jpg",
+      "initialSize" : 73570,
+      "fileType" : 4096
+    },
     "\/images\/intro\/7.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1345,26 +1466,15 @@
       "initialSize" : 22785,
       "fileType" : 4096
     },
-    "\/images\/intro\/JPEG\/6.jpg" : {
+    "\/images\/disney1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/intro\/JPEG\/6.jpg",
+      "inputAbbreviatedPath" : "\/images\/disney1.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/intro\/JPEG\/6.jpg",
-      "initialSize" : 32096,
-      "fileType" : 4096
-    },
-    "\/images\/schumer1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/schumer1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/schumer1.jpg",
-      "initialSize" : 79504,
+      "outputAbbreviatedPath" : "\/images\/disney1.jpg",
+      "initialSize" : 133818,
       "fileType" : 4096
     },
     "\/views\/what-we-do.jade" : {
@@ -1378,15 +1488,15 @@
       "outputAbbreviatedPath" : "\/what-we-do.html",
       "fileType" : 512
     },
-    "\/images\/disney1.jpg" : {
+    "\/images\/intro\/JPEG\/6.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/disney1.jpg",
+      "inputAbbreviatedPath" : "\/images\/intro\/JPEG\/6.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/disney1.jpg",
-      "initialSize" : 133818,
+      "outputAbbreviatedPath" : "\/images\/intro\/JPEG\/6.jpg",
+      "initialSize" : 32096,
       "fileType" : 4096
     },
     "\/images\/arrows.png" : {
@@ -1399,6 +1509,17 @@
       "outputAbbreviatedPath" : "\/images\/arrows.png",
       "initialSize" : 1252,
       "fileType" : 8192
+    },
+    "\/images\/schumer1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/schumer1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/schumer1.jpg",
+      "initialSize" : 79504,
+      "fileType" : 4096
     },
     "\/views\/nav.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -1477,17 +1598,6 @@
       "initialSize" : 100023,
       "fileType" : 4096
     },
-    "\/images\/intro\/JPEG\/12.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/intro\/JPEG\/12.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/intro\/JPEG\/12.jpg",
-      "initialSize" : 34926,
-      "fileType" : 4096
-    },
     "\/images\/photo-1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1499,15 +1609,15 @@
       "initialSize" : 107848,
       "fileType" : 4096
     },
-    "\/images\/wwd4.jpg" : {
+    "\/images\/intro\/JPEG\/12.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/wwd4.jpg",
+      "inputAbbreviatedPath" : "\/images\/intro\/JPEG\/12.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/wwd4.jpg",
-      "initialSize" : 92761,
+      "outputAbbreviatedPath" : "\/images\/intro\/JPEG\/12.jpg",
+      "initialSize" : 34926,
       "fileType" : 4096
     },
     "\/js\/events-kreate.js" : {
@@ -1520,6 +1630,17 @@
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/js\/events-kreate-kreate.js",
       "fileType" : 64
+    },
+    "\/images\/wwd4.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/wwd4.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/wwd4.jpg",
+      "initialSize" : 92761,
+      "fileType" : 4096
     },
     "\/js\/events.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1543,17 +1664,6 @@
       "initialSize" : 1943,
       "fileType" : 8192
     },
-    "\/images\/intro\/9.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/intro\/9.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/intro\/9.jpg",
-      "initialSize" : 44985,
-      "fileType" : 4096
-    },
     "\/images\/frieder.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1576,6 +1686,17 @@
       "initialSize" : 102803,
       "fileType" : 4096
     },
+    "\/images\/intro\/9.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/intro\/9.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/intro\/9.jpg",
+      "initialSize" : 24815,
+      "fileType" : 4096
+    },
     "\/images\/intro\/JPEG\/8.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1593,19 +1714,8 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/css\/styles.css",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 16
-    },
-    "\/images\/corp1-square.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/corp1-square.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/corp1-square.jpg",
-      "initialSize" : 77671,
-      "fileType" : 4096
     },
     "\/images\/disney3.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1616,6 +1726,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/disney3.jpg",
       "initialSize" : 84660,
+      "fileType" : 4096
+    },
+    "\/images\/corp1-square.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/corp1-square.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/corp1-square.jpg",
+      "initialSize" : 77671,
       "fileType" : 4096
     },
     "\/images\/fencing1.jpg" : {
@@ -1802,7 +1923,7 @@
       "inputAbbreviatedPath" : "\/images\/cw2.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/cw2.jpg",
-      "initialSize" : 36227,
+      "initialSize" : 66229,
       "fileType" : 4096
     },
     "\/images\/intro\/14.jpg" : {
@@ -1813,29 +1934,7 @@
       "inputAbbreviatedPath" : "\/images\/intro\/14.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/intro\/14.jpg",
-      "initialSize" : 46525,
-      "fileType" : 4096
-    },
-    "\/images\/orensanz3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/orensanz3.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/orensanz3.jpg",
-      "initialSize" : 87441,
-      "fileType" : 4096
-    },
-    "\/images\/tully3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/tully3.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/tully3.jpg",
-      "initialSize" : 91301,
+      "initialSize" : 27189,
       "fileType" : 4096
     },
     "\/images\/moma4.jpg" : {
@@ -1849,6 +1948,17 @@
       "initialSize" : 58125,
       "fileType" : 4096
     },
+    "\/images\/tully3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/tully3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/tully3.jpg",
+      "initialSize" : 91301,
+      "fileType" : 4096
+    },
     "\/images\/orchid2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1858,6 +1968,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/orchid2.jpg",
       "initialSize" : 98390,
+      "fileType" : 4096
+    },
+    "\/images\/orensanz3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/orensanz3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/orensanz3.jpg",
+      "initialSize" : 87441,
       "fileType" : 4096
     },
     "\/images\/moma2.jpg" : {
@@ -1916,15 +2037,19 @@
       "fileType" : 4096
     },
     "\/less\/styles.less" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
+      "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/less\/styles.less",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/css\/styles.css",
+      "outputPathIsSetByUser" : 0,
+      "strictUnits" : 0,
+      "relativeURLS" : 0,
+      "ignore" : 0,
       "strictImports" : 0,
+      "ignoreWasSetByUser" : 0,
+      "shouldRunBless" : 0,
+      "hidden" : 0,
+      "strictMath" : 0,
+      "outputStyle" : 1,
       "fileType" : 1,
       "debugStyle" : 0
     },
@@ -1956,7 +2081,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/private-events.html",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 2048
     },
     "\/images\/wwd2.jpg" : {
@@ -1989,7 +2114,10 @@
     "sassAutoOutputPathStyle" : 2,
     "stylusAutoOutputPathReplace2" : "css",
     "lessAutoOutputPathStyle" : 1,
+    "lessIECompatibility" : 1,
     "genericWebpageFileExtensionsString" : "html, xhtml, htm, shtml, shtm, php, jsp, asp, aspx, erb, ctp",
+    "lessStrictUnits" : 0,
+    "lessStrictMath" : 0,
     "coffeeMinifyOutput" : 1,
     "javascriptOutputSuffix" : "-kreate",
     "jadeOutputStyle" : 0,
@@ -2043,28 +2171,27 @@
       "curly" : 1,
       "trailing" : 1,
       "nonew" : 1,
-      "withstmt" : 0,
+      "es3" : 0,
+      "freeze" : 1,
       "yui" : 0,
       "mootools" : 0,
       "proto" : 0,
       "boss" : 0,
       "funcscope" : 0,
-      "regexdash" : 0,
       "jquery" : 1,
       "esnext" : 0,
       "camelcase" : 0,
-      "es5" : 0,
       "dojo" : 0,
       "strict" : 0,
       "devel" : 0,
-      "onecase" : 0,
       "wsh" : 0,
       "nonstandard" : 0,
       "asi" : 0,
-      "smarttabs" : 0,
+      "moz" : 0,
       "rhino" : 0,
-      "noempty" : 0,
+      "smarttabs" : 0,
       "lastsemic" : 0,
+      "noempty" : 0,
       "eqnull" : 0,
       "eqeqeq" : 1,
       "couch" : 0,
@@ -2081,6 +2208,7 @@
       "unused" : 1,
       "debug" : 0,
       "bitwise" : 1,
+      "notypeof" : 1,
       "white" : 0,
       "browser" : 1,
       "worker" : 0,
@@ -2088,43 +2216,36 @@
       "multistr" : 0,
       "shadow" : 0,
       "sub" : 0,
-      "regexp" : 1,
+      "plusplus" : 0,
       "scripturl" : 0,
       "forin" : 0,
       "loopfunc" : 0,
-      "laxbreak" : 0,
-      "plusplus" : 0
+      "laxbreak" : 0
     },
     "jsLintFlags" : {
       "white" : 0,
-      "bitwise" : 0,
+      "unparam" : 0,
       "regexp" : 0,
+      "nomen" : 0,
       "vars" : 0,
-      "anon" : 0,
       "sub" : 0,
       "stupid" : 0,
-      "nomen" : 0,
-      "unparam" : 0,
+      "continue" : 0,
+      "bitwise" : 0,
       "newcap" : 0,
-      "'continue'" : 0,
       "sloppy" : 0,
-      "fragment" : 0,
-      "undef" : 0,
-      "es5" : 0,
+      "closure" : 0,
       "browser" : 1,
       "properties" : 0,
-      "forin" : 0,
       "plusplus" : 0,
       "debug" : 0,
+      "forin" : 0,
       "eqeq" : 0,
-      "confusion" : 0,
       "evil" : 0,
-      "on" : 0,
-      "windows" : 0,
-      "devel" : 0,
-      "rhino" : 0,
       "node" : 0,
-      "css" : 0
+      "rhino" : 0,
+      "devel" : 0,
+      "ass" : 0
     },
     "uglifyFlags" : {
       "no-mangle-functions" : 0,
@@ -2146,6 +2267,7 @@
     "jadeCompileDebug" : 1,
     "slimRailsCompatible" : 0,
     "kitAutoOutputPathReplace2" : "",
+    "lessRelativeURLS" : 0,
     "lessDebugStyle" : 0,
     "javascriptAutoOutputPathRelativePath" : "js",
     "slimAutoOutputPathStyle" : 0
